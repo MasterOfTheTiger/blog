@@ -71,7 +71,7 @@ Mastodon:
 
 Diaspora*:
 - diasp.org (a generic diaspora* pod and one of the biggest, but has received some negative feedback after deleting accounts of many Nazis)
-- russsiandiaspora.org (allows for much free speech, but has a very negative connotation to other people on diaspora*)
+- russiandiaspora.org (allows for much free speech, but has a very negative connotation to other people on diaspora*)
 - kingdompod.com (an explicitly family-friendly pod specifically for Christians)
 
 Feel free to join any of those, and when you join please message me with the contact info below. I would love to hear from you all.
