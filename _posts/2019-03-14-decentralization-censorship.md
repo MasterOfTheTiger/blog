@@ -79,3 +79,5 @@ Feel free to join any of those, and when you join please message me with the con
 MasterOfTheTiger
 Diaspora*: [masterofthetiger@kingdompod.com](https://kingdompod.com/u/masterofthetiger)
 Mastodon: [@masterofthetiger@theres.life](https://theres.life/@masterofthetiger)
+
+![You won't find me on Facebook](https://static.fsf.org/nosvn/no-facebook-me.png "And you will never find me there either")
