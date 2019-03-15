@@ -64,15 +64,18 @@ I have invested into this network myself by setting up my own instances of both 
 
 Here is where I recommend joining the Federation/Fediverse:
 
-Mastodon:
+**Mastodon**:
 - mastodon.social (an instance run by the developer of Mastodon)
 - qoto.org ("A Mastodon instance for scholars in Science, Technology, Engineering, and Mathematics (STEM) and all yearning to learn." Free speech)
 - theres.life (an explicitly family-friendly instance specifically for Christians)
 
-Diaspora*:
+Find more instances at [Instances.social](https://instances.social).
+
+**Diaspora***:
 - diasp.org (a generic diaspora* pod and one of the biggest, but has received some negative feedback after deleting accounts of many Nazis)
-- russiandiaspora.org (allows for much free speech, but has a very negative connotation to other people on diaspora*)
 - kingdompod.com (an explicitly family-friendly pod specifically for Christians)
+
+Find more pods at [PodUptime](https://podupti.me).
 
 Feel free to join any of those, and when you join please message me with the contact info below. I would love to hear from you all.
 
